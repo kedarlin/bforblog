@@ -1,0 +1,24 @@
+{
+  "name": "bforblog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kedarlin/bforblog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kedarlin/bforblog/issues"
+  },
+  "homepage": "https://github.com/kedarlin/bforblog#readme",
+  "dependencies": {
+    "joi": "^17.12.2",
+    "mongoose": "^8.2.1",
+    "nodemon": "^3.1.0"
+  }
+}
